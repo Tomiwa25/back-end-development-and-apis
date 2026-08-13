@@ -1,22 +1,17 @@
 {
-  "author": "",
-  "dependencies": {
-    "@babel/generator": "7.29.7",
-    "@babel/parser": "7.29.7",
-    "@freecodecamp/freecodecamp-os": "3.5.4",
-    "babeliser": "0.6.0"
-  },
-  "description": "",
-  "keywords": [],
-  "license": "BSD-3-Clause",
-  "name": "back-end-development-and-apis",
-  "private": true,
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "Build a prime number checker module",
+  "keywords": [
+    "[prime",
+    "number",
+    "checker]"
+  ],
+  "license": "MIT",
+  "author": "Muhydeen ayandola",
+  "type": "commonjs",
+  "main": "index.js",
   "scripts": {
-    "start": "node ./node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/server.js",
-    "test": "node test/run.mjs",
-    "test:lint": "node test/run.mjs --check lint",
-    "test:crash": "node test/run.mjs --check crash"
-  },
-  "type": "module",
-  "version": "1.1.10"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
