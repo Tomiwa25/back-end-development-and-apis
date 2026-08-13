@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Build a prime number checker module",
   "keywords": [
-    "[prime",
+    "prime",
     "number",
-    "checker]"
+    "checker"
   ],
   "license": "MIT",
   "author": "Muhydeen ayandola",
